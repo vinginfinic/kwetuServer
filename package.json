@@ -1,0 +1,23 @@
+{
+  "name": "kwetuServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinginfinic/kwetuServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinginfinic/kwetuServer/issues"
+  },
+  "homepage": "https://github.com/vinginfinic/kwetuServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
